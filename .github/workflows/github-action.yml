@@ -17,3 +17,4 @@ jobs:
         with:
           branch: main # The branch the action should deploy to.
           folder: dist # The folder the action should deploy.
+          repository-name: multikatt/multikatt.github.io
