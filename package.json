@@ -1,0 +1,10 @@
+{
+  "name": "testaractions",
+  "source": "src/index.html",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  }
+}
